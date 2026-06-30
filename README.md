@@ -46,6 +46,3 @@ This repository contains solutions to a series of Computer Vision and Image Proc
 pip install -r requirements.txt
 ```
 
-## Author
-
-Harisaran Singh
